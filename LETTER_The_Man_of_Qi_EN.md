@@ -124,5 +124,5 @@ November 2026
 
 ---
 
-> This text may be freely copied, modified, and redistributed. No attribution required.
+> Licensed under **CC BY-SA 4.0**: free to copy, modify, and redistribute, including commercially — with attribution, and derivative works under the same license.
 > One request only: if you change it, leave a note of what you changed — because everything this document has, it draws from being refutable.
